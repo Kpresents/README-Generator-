@@ -40,9 +40,8 @@ function generateMarkdown(data) {
   - [Installation](#installation)
   - [Contribution](#contribution)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
-  - [Test](#test)
+  - [Test](#tests)
   - [GitHub](#gitHub)
   - [Email](#email)
   
@@ -54,7 +53,7 @@ function generateMarkdown(data) {
   ${data.usage}
       
   
-  ## Contributors
+  ## Contribution
   ${data.contribution}
   
   
